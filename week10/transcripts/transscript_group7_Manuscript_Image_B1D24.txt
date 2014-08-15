@@ -1,16 +1,28 @@
 Group 7
 Manuscript Image B1D24
-de Enero ano del nascimiento del hu-
-.tro Senor Jesu..irto de mil e qua-
-trocientos e quarenta (1440) anos Fesrios os
+de Enero ano del nascimiento del hu
+.tro Senor Jesu..irto de mil e qua
+trocientos e quarenta  anos Fesrios os
 que fueron presentes a esto que dho
 es Basco Gomez Radoneno en la dha
 Yglesia e Franisco Sanchez Clerigo
-Companero en la dha Yglesia e Al-
-fonso fijo de Juan Martinez Texe-
-dor vecinos dela dicha Ciudad de Pla-
-sencia Es.o el dicho Gutierre Gonza-
+Companero en la dha Yglesia e Al
+fonso fijo de Juan Martinez Texe
+dor vecinos dela dicha Ciudad de Pla
+sencia Es.o el dicho Gutierre Gonza
 lez del Basco Notario publico sobre
 dicho .ay presente a todo lo sino dho
 en sino con los dhos testigos e al dho
+
+year dates For example, “1440, 1438, 1420”.
+1440
+
+financial quantities For example, “300 maravedies, 25 maravedies”.
+
+place names For example, “Calle de Rua, Bejar, Plasencia”.
+Plasencia
+
+person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+Basco Gomez Radoneno, Franisco Sanchez, Juan Martinez Texedor, Gutierre Gonzalez del Basco
+
 
