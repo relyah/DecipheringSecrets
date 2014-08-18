@@ -1,7 +1,7 @@
 Group 7
 Manuscript Image B1D29
 cabdo y obligacion segun paso por
-Gurierre Gonzalez del Barco, Notario
+Gutierre Gonzalez del Barco, Notario
 publico en la dha Ciudad e en todo su
 obispado etoda cosa que sobre la
 dicha razon fecieredes e defieredes
@@ -14,11 +14,11 @@ f.... e arable e valedero para
 en todo tiempo lo obligacion de los
 
 year dates For example, “1440, 1438, 1420”.
-Gurierre Gonzalez del Barco
 
 financial quantities For example, “300 maravedies, 25 maravedies”.
 
 place names For example, “Calle de Rua, Bejar, Plasencia”.
 
 person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+Gutierre Gonzalez del Barco
 
