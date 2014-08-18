@@ -1,17 +1,17 @@
 Group 7
 Manuscript Image B1D30
 de Santa Maria e de la otra parte
-la Calle e casa e Vergel que fueron
+la Calle e casas e Vergel que fueron
 del dicho Diego Gomez de Almanaz ede
 la otra parte casas que fueron de
 los herederos de Lope Ortiz de Monro
 ya, e de Feresa Lope, su muger e con
 agora de Dn Gonzalo Gutierre de la
-Calleja Canrte dela dho Yglesia ede
+Calleja Cas.tre dela dho Yglesia ede
 la otra parte casas que fueron delos
-herederos de Fe.ran Yssiguez e son ago
-ra del Badriller Ruiz de Gamargo fijo
-del dicho Juan Ruiz Eo..osi casas que
+herederos de Ferran Yssiguez e son ago
+ra del Badriller Ruiz de Camargo fijo
+del dicho Juan Ruiz Eotrosi casas que
 fueron de Luis Alfonso de Toledo e
 son agora delos herederos del dicho
 
@@ -23,4 +23,4 @@ place names For example, “Calle de Rua, Bejar, Plasencia”.
 Almanaz, Monroya, Toledo
 
 person names For example, “Gonzalo Gutierrez, Juan Fernandez”
-Diego Gomez, Lope Ortiz de Monroya, Feresa Lope, Badriller Ruiz de Gamargo, Luis Alfonso de Toledo
+Diego Gomez, Lope Ortiz de Monroya, Feresa Lope, Ferran Yssiguez, Badriller Ruiz de Camargo, Luis Alfonso de Toledo
