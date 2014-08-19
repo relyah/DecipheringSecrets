@@ -1,0 +1,24 @@
+Group 7
+Manuscript Image B1D35
+.o en cada ano la meitad delos dichos
+mrs e los dichos pares de gallinas
+por Navidad e la otra meitad por dia
+de San Juan de Junio que comenzara
+la primera renta por dia de Navidad
+primero seguiessre e se acabara por el
+dia de San Juan de Junio primero se
+guiessre que sera en el ano de mil e
+quatrocientos e quarenta anos e asi
+donde en adelante en cada ano so pe
+na del doblo por nombre de ..uereto
+e que Vos el dicho Bachiller Rades obli
+
+year dates For example, “1440, 1438, 1420”.
+1440
+
+financial quantities For example, “300 maravedies, 25 maravedies”.
+
+place names For example, “Calle de Rua, Bejar, Plasencia”.
+
+person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+

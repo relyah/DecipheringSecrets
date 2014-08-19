@@ -1,0 +1,25 @@
+Group 7
+Manuscript Image B1D34
+y dada copia dellos Que fue otorgada e
+fecha esta canto en la dha Ciudad a
+cinco dias de Junio ano del nascimien
+to del nuestro Salbador Jesuschristo de
+mil e quatrocientos e treinta e nue
+vo anos testigos que fueron presentes
+a todo lo que dicho es Juan Ferran
+dez Delgado Clerigo dela Yglesia del 
+San Salbador e Gomez Ferrandez Cle
+rigo de San Vicente Yglesia dela dha
+Ciudad y Garcia Ximenez Criado del
+dicho Senor Obispo E yo el dicho Giuter
+re Gonzalez del Barco Notario publico
+
+year dates For example, “1440, 1438, 1420”.
+1439
+
+financial quantities For example, “300 maravedies, 25 maravedies”.
+
+place names For example, “Calle de Rua, Bejar, Plasencia”.
+
+person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+Juan Ferrandez Delgado, Gomez Ferrandez, Garcia Ximenez, Giuterre Gonzalez
