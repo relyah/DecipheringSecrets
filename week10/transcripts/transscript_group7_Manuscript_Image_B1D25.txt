@@ -3,21 +3,22 @@ Manuscript Image B1D25
 promeso e otorgo de vos dar e pagan
 en renta por estas dichas casas en
 cada un ano de todos los anos de mi
-vida quarenta e dos mrs dela mone-
+vida quarenta e dos mrs dela mone
 da que corriere al tiempo delas pagas
 e mas dos pares de gallinas buenas
 que sean de rescevir todo forro de di-
 ezimo yuessos e pagados los dichos mrs
-e las gallinas en la dha Ciudad de Pla-
+e las gallinas en la dha Ciudad de Pla
 sencia a salvo e sin costa alguna
 en poder de Vos el dho Cabildo e Be-
-neficados o del bueno Mayordomo
+neficados e del bueno Mayordomo
 que fuere en cada un ano la ..erias
 
 
 year dates For example, “1440, 1438, 1420”.
 
 financial quantities For example, “300 maravedies, 25 maravedies”.
+42 maravedies
 
 place names For example, “Calle de Rua, Bejar, Plasencia”.
 Plasencia

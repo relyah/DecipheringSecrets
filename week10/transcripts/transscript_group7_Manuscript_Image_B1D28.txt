@@ -2,7 +2,7 @@ Group 7
 Manuscript Image B1D28
 Yglesia otorgamos e conoseamos que da
 mos otorgamos neustro poder compli
-do a vos Abrahan .ranon Judio Ferre
+do a vos Abrahan Aranon Judio Ferre
 no vecino dela dicha Cuidad que estadas
 presente para que por nos e en nues
 tro nombre e para vos podades pe
@@ -15,7 +15,7 @@ e heraderos sobre el repaso e adovio
 de unas casas de nos el dho Cabildo
 que el dicho Chapas tenia arrendadas
 
-Aramo. p
+Aranon p
 cobrar el ropa
 so delas casas
 ...dichas de
@@ -31,5 +31,5 @@ financial quantities For example, “300 maravedies, 25 maravedies”.
 place names For example, “Calle de Rua, Bejar, Plasencia”.
 
 person names For example, “Gonzalo Gutierrez, Juan Fernandez”
-Abrahan .ranon Judio Ferreno, Yusef Chapas
+AAbrahan Aranon Judio Ferreno, Yusef Chapas
 
