@@ -1,0 +1,23 @@
+Group 7
+Manuscript Image B1D38
+mas que sea tenudo de pagar tdodo e .
+dabno perdido e monoscabo que al dicho
+Pa.ra. viniere el qual dicho Parral to
+.. e rasabo en mi a ressta como dho
+es a toda mi ab...ra de fuego e de
+agua e de piedra e de niebla e de hela
+da e a todo caso fortuito en tal ma
+nera que por cosa que al dicho Parral
+o.nga e nesesca o al fristo del en todo
+el dho tiempo o en parte del que
+asi sea c.neado el Dabno e perdida
+
+year dates For example, “1440, 1438, 1420”.
+1440
+
+financial quantities For example, “300 maravedies, 25 maravedies”.
+
+place names For example, “Calle de Rua, Bejar, Plasencia”.
+
+person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+
