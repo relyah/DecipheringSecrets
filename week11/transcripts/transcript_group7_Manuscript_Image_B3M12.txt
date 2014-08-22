@@ -1,11 +1,28 @@
 Group 7
 Manuscript Image B3M12
+del Enguifuela e dela otra parte las ca
+lles del Concejo que van por el dicho Pue
+blo e estas casas estan bien adobadas
+Han mas en Riobermejo Aldea y termino de
+Plasencia estas heredades que aqui dira
+que les dejo el Chantre Juan Fimon .n
+pedazo grande de tierra en la dehesa
+o dicen los cebollares al Valle delos Re
+queros e comienza el primero mojon
+a raiz del Camino por lo ban de Pla
+sencia a Coria e da en otro mojon
+que esta en una pizarra encima de
+un Cerro e donde ba por el dicho cerro
+ayuso aquas bertientes a una parte y
+a otra y ba por sus mojones e da en
+fom on del dicho cerro en un mojon
+
 
 year dates For example, “1440, 1438, 1420”.
 
 financial quantities For example, “300 maravedies, 25 maravedies”.
 
 place names For example, “Calle de Rua, Bejar, Plasencia”.
-
+Riobermejo, Plasencia, Coria
 
 person names For example, “Gonzalo Gutierrez, Juan Fernandez”
