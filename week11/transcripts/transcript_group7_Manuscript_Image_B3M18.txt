@@ -1,0 +1,30 @@
+Group 7
+Manuscript Image B3M18
+Han mas otra aza en el Lugar que dicen
+Valde Barrancos e toma en una tierra
+de la dicha Dona Mari Perez tendera e
+atraviesa el camino que ba de Galisteo
+a Plasencia e descabeza en el camino
+que ba de Coria a Plasencia linderos
+desta una parte contra Rio Bermejo tier
+ra de fixos de Diego Perez de Granada
+e dela otra parte contra Galisteo y
+contra torre de Vigo tierra de la dha
+Dona Mari Perez e tierra del dicho Die
+go Marcos -------------"-------------
+Han mas otra aza en el Lugar que dicen
+Valde Milana e dicen le la faza del finojal
+e toma en la Calzada y descabeza en el
+camino que ba de Coria a Plasencia lin
+deros de parte de Galisteo tierra del dho
+Diego Munoz e tierra que fue de Dona
+
+year dates For example, “1440, 1438, 1420”.
+
+financial quantities For example, “300 maravedies, 25 maravedies”.
+
+place names For example, “Calle de Rua, Bejar, Plasencia”.
+Valde Barrancos, Galisteo, Plasencia, Coria, torre de Vigo, Valde Milana
+
+person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+Mari Perez, Diego Perez de Granada, Diego Marcos, Diego Munoz

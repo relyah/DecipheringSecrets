@@ -1,19 +1,19 @@
 Group 7
-Manuscript Image B3M1
+Manuscript Image B3M17
 Mari Perez e de parte de ayuso contra
 el rio de Xerete es lindero tierra
 de Marcos Sanchez Ballon ------"-----
 Han mas otra aza de la Aldea de Rio Ber
-mejo y es cerca delta otra que encima
+mejo y es cerca desta otra que encima
 dicha es y toma en el arroyo que dicen
-del texan y atraviesa el prado del
-texan que esta Orilla delte arroyo
+del texar y atraviesa el prado del
+texar que esta Orilla deste arroyo
 y ba por sus lindes dela una parte y
-de la otra e traviesa el camino que
+dela otra e traviesa el camino que
 ba de Rio Bermejo a Plasencia e ba
 por la cabeza que dicen del Carrascal
 e descabeza en una aza de Miguel San
-chez de Ase.sna que ha por linderos
+chez de Asetuna que ha por linderos
 desa parte e dela otra parte contra
 Plasencia es lindero heredad que fue
 de Dona Gracia muger de fue de
@@ -26,4 +26,4 @@ place names For example, “Calle de Rua, Bejar, Plasencia”.
 rio de Xerete, Aldea de Rio Bermejo, Plasencia 
 
 person names For example, “Gonzalo Gutierrez, Juan Fernandez”
-Mari Perez, Marcos Sanchez Ballon, Miguel Sanchez de Ase.sna, Dona Gracia
+Mari Perez, Marcos Sanchez Ballon, Miguel Sanchez de Asetuna, Dona Gracia
