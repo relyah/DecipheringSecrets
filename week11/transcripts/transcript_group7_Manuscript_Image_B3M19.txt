@@ -1,0 +1,32 @@
+Group 7
+Manuscript Image B3M19
+tierra dela dicha Dona Mari Perez
+Han mas otra aza en el dicho Lugar que
+dicen Valde Milana que comienza en la
+calzada e descabeza en el camino q
+ba de Coria a Plasencia linderos de par
+te de ayuso contra Galisteo tierra de
+la dicha Dona Mari Perez tendera e
+de parte de cima contra Plasencia
+tierra de Ferran Perez de Monros
+e tierra del dicho Diego Martinez
+Han mas otra aza que es o dicen el
+Pico que comienza en una tierra
+del dicho Diego Martinez e ba ayuso
+contra Coria e descabeza en otra aza
+del dicho Diego Martinez linderos con
+tra el rio de Xerete tierra del dho
+Diego Martinez e asi es lindero el
+dicho Diego Martinez delas tres par
+
+year dates For example, “1440, 1438, 1420”.
+
+financial quantities For example, “300 maravedies, 25 maravedies”.
+
+place names For example, “Calle de Rua, Bejar, Plasencia”.
+Valde Milana, Coria, Plasencia, Galisteo, rio de Xerete  
+
+person names For example, “Gonzalo Gutierrez, Juan Fernandez”
+Dona Mari Perez, Ferran Perez de Monros, Diego Martinez
+
+
